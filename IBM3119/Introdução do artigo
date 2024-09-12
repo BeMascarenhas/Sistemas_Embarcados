@@ -7,4 +7,8 @@ O protocolo ESP-NOW tem sido recentemente explorado para comunicação em redes 
 
 Este artigo propõe o desenvolvimento de um sistema baseado nessas tecnologias para monitoramento e controle de áreas isoladas, focando na prevenção de queimadas. Utilizando o protocolo ESP-NOW para comunicação local entre dispositivos e MQTT para transmissão de dados para a nuvem, buscamos criar uma solução que permita a detecção precoce de condições de risco e a geração de alertas automáticos. O objetivo é avaliar a eficácia dessa abordagem na mitigação de desastres ambientais e na proteção de áreas de difícil acesso.
 
+Esp32 - https://eprints.uklo.edu.mk/id/eprint/6312/ 
+Mqtt - https://ieeexplore.ieee.org/abstract/document/9108808 
+Incendio - https://ieeexplore.ieee.org/abstract/document/7074110 
+
 Na Seção II, discutimos a abordagem proposta para a implementação de um sistema de monitoramento de queimadas, detalhando o uso dos protocolos ESP-NOW e MQTT para comunicação e transmissão de dados. Na Seção III, descrevemos a configuração dos protótipos dos dispositivos de monitoramento e os sensores utilizados para a coleta de dados ambientais. Na Seção IV, apresentamos os resultados obtidos dos testes realizados, avaliando a eficácia do sistema na detecção ágil de condições de risco e discutindo os desafios enfrentados durante a implementação. Finalmente, na Seção V, concluímos o estudo com uma análise das contribuições do sistema para a mitigação de desastres ambientais e sugerimos direções para pesquisas futuras.
