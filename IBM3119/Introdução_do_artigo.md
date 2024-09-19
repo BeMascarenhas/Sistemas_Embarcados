@@ -20,3 +20,16 @@ As placas ESP32 possibilitam uma transmissão de dados eficiente sem a necessida
 ### Sensores
 
 Para os testes de detecção de incêndios, utilizamos os sensores DHT11, para medir umidade e temperatura, e o sensor MQ7, para monitorar a concentração de monóxido de carbono. Esses sensores permitem a análise de três parâmetros cruciais—umidade, temperatura e níveis de monóxido de carbono—visando a detecção precoce de incêndios e a minimização de alarmes falsos. O DHT11 é eficiente na detecção dentro de um raio de até 20 metros, o que se mostrou adequado para o escopo dos nossos testes. A integração desses sensores com o sistema de comunicação previamente descrito viabiliza a formação de uma rede que pode monitorar e identificar precocemente a ocorrência de incêndios em áreas específicas. Contudo, a precisão e a confiabilidade do sistema dependem fortemente da calibração adequada e do correto posicionamento dos sensores, aspectos essenciais para assegurar a eficácia na detecção e a redução de alarmes falsos. 
+
+### Possiveis Citações:
+Deploying an ESP32-based two-way communication system has a big impact on the
+effectiveness, dependability, and expandability of Internet of Things (IoT) systems. 
+@article{madhukumar2024esp,
+  title={ESP-NOW based Two Way Data Transferring},
+  author={MadhuKumar, V and Sree, N Suma and Priya, S and Sai, A Vivek and Eshwar, K and Nagaraju, S},
+  journal={RES MILITARIS},
+  volume={14},
+  number={4},
+  pages={238--248},
+  year={2024}
+}
