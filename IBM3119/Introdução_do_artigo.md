@@ -33,3 +33,4 @@ effectiveness, dependability, and expandability of Internet of Things (IoT) syst
   pages={238--248},
   year={2024}
 }
+https://www.canva.com/design/DAGRt1E00Kk/OWXUQR_h-PYQM1UVxLsJLw/edit
