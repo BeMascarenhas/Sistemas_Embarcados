@@ -80,7 +80,7 @@ void loop() {
     HTTPClient http;
 
     // URL do servidor
-    http.begin("http://192.168.246.34:8000");  // Substitua pela sua URL
+    http.begin("http://192.168.124.34:8000");  // Substitua pela sua URL
 
     // Definir cabeçalhos
     http.addHeader("Content-Type", "application/json");
